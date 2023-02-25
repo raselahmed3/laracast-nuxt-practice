@@ -18,7 +18,7 @@
           <span class="arrow inline-flex w-auto items-center pr-8 relative">Visit</span>
         </div>
         <div class="flex-1 bg-black-dark shadow-xl pl-2">
-          <img src="../image/test.jpg" alt="" />
+          <img src="../public/image/test.jpg" alt="" />
         </div>
       </div>
     </a>
